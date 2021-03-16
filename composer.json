@@ -14,7 +14,8 @@
        "psr-4": {
            "Alipay\\aop\\": "alipay/aop/",
            "Alipay\\request\\": "alipay/aop/request/"
-       }
+       },
+        "files": ["Config.php"]
     }
 
 }
